@@ -22,7 +22,7 @@ This project demonstrates text generation using a Recurrent Neural Network (RNN)
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/text-generation-rnn.git
+git clone https://github.com/d98malik/Text_generation_using_RNN.git
 cd text-generation-rnn
 ```
 
